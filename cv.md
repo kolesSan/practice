@@ -1,4 +1,4 @@
-# Kolesan Darya 
+# Kolesan Daria 
 ## My Contact Info:
 
 * **Phone:** +375 29 269-35-48
