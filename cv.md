@@ -8,7 +8,9 @@
 
 ## About Me
 
-I am a first year student at VSTU.  Studying as a programmer-business analyst.  I have good interpersonal skills, I work well in a team and I am very willing to learn and develop new skills.  At the moment I have no work experience, but after completing the first course, I had a great desire to learn various programming languages.
+I am a first year student at VSTU.  Studying as a programmer-business analyst.  
+I have good interpersonal skills, I work well in a team and I am very willing to learn and develop new skills.  
+At the moment I have no work experience, but after completing the first course, I had a great desire to learn various programming languages.
 
 
 ## Skills
