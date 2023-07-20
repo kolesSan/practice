@@ -1,4 +1,4 @@
-[Resume](http://127.0.0.1:5500/index.html)
+[Resume](index.html)
 # Kolesan Daria 
 ## My Contact Info:
 
