@@ -1,5 +1,5 @@
 [Resume](http://127.0.0.1:5500/index.html)
-# Kolesan Darya 
+# Kolesan Daria 
 ## My Contact Info:
 
 * **Phone:** +375 29 269-35-48
